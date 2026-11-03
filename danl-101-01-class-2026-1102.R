@@ -225,4 +225,12 @@ ggplot(data = destination_flights,
   scale_fill_colorblind()
 
 
-# q3 visualization seems more convenient to determine that.
+
+
+
+
+
+# Q. “Among the three selected destinations, 
+# what share of July records were headed to LAX?”
+
+# q3 visualization seems more convenient to address this question.
